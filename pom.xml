@@ -22,4 +22,10 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <scm>
+    <connection>scm:git:ssh://github.com/lvotypko/release-test-project.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/lvotypko/release-test-project.git</developerConnection>
+    <url>https://github.com/lvotypko/release-test-project</url>
+  <tag>HEAD</tag>
+  </scm>
 </project>
